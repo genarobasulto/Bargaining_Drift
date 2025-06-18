@@ -15,7 +15,8 @@ The firm-level data used in this study are drawn from COMPUSTAT (via WRDS), whic
 
 ## Repository Contents
 
-- **data_cleaing:** The program for merging and cleaing the datasets downloaded from Compustat.  
+- **initial_data_transformation:** The program for merging and cleaing the datasets downloaded from Compustat.
+- **data_cleaing:** The program to apply the exclusion criteria to the data. 
 - **regressions:** The program for running the regressions given by equation (3) in the paper using the dataset obtained after the exclusion criteria. 
 - **salary_simulations** Code to generate simulations of compensation path following the regression model results.
 ## How to Use
