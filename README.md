@@ -5,6 +5,8 @@
 
 This repository contains the code for the numerical and econometric analysis in the correspinding paper. This study empirically examines the evolution of CEOs' bargaining power using compensation data from the ExecuComp and Annual Snapshot databases (1999–2022). Findings indicate that CEO age stabilizes bargaining power fluctuations, while firm size shapes its primary drivers: future compensation components, such as option grants, dominate in large-capitalization firms; both current and future pay influence bargaining power in mid-capitalization firms; and salary and stock grants drive shifts in small-capitalization firms. These results enhance our understanding of the persistence of bargaining power in executive compensation, offering insights for policymakers and corporate governance stakeholders on the evolving nature of pay negotiations.
 
+The firm-level data used in this study are drawn from COMPUSTAT (via WRDS), which is subject to third-party licensing agreements and therefore cannot be publicly shared. Researchers with access to COMPUSTAT through their institution or a license with S&P Global can replicate our results using the variable definitions and code provided in this repository. 
+
 ## Features
 
 - Explain exclusion criteria from the data in Compustat Snapshot and ExecuComp databases.
